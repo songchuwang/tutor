@@ -1,0 +1,28 @@
+<!-- 现在我要实现一个功能：我在student组件输入的数据要
+传入到teacher组件.
+-->
+<div>
+  <div>
+    <ul>
+      <h4>学生信息</h4>
+      <li *ngFor="let student of students">
+        <span>姓名:{{student.name}}</span><br>
+        <span>信息:{{student.infor}}</span>
+      </li>
+    </ul>
+    <ul>
+      <h4>老师信息</h4>
+      <li *ngFor="let teacher of teachers">
+        <span>姓名:{{teacher.name}}</span><br>
+        <span>信息:{{teacher.infor}}</span>
+      </li>
+    </ul>
+  </div>
+  <div>
+    <label>姓名:<input #name /></label>
+    <label>信息:<input #infor /></label>
+    <button (click)="addInfor(name.value,infor.value);name.value=''; infor.value=''">
+      发布
+    </button>
+  </div>
+</div>
