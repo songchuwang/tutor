@@ -1,0 +1,260 @@
+{
+  "data": {
+    "requires": [
+      {
+        "requireId": 0,
+        "studentId": 0,
+        "requireCourse": "语文",
+        "requireSex": "女",
+        "requireAddress": "深圳市南山区",
+        "requireInfo": "小姐姐吗？",
+        "requirePrice": "288",
+        "createTime": "111",
+        "teacherId": 0
+      },
+      {
+        "requireId": 1,
+        "studentId": 1,
+        "requireCourse": "bbbbbb",
+        "requireSex": "bbbbbb",
+        "requireAddress": "bbbbbb",
+        "requireInfo": "bbbbbb",
+        "requirePrice": "388",
+        "createTime": "bbbbbb",
+        "teacherId": 1
+      },
+      {
+        "requireId": 2,
+        "studentId": 2,
+        "requireCourse": "ccccccc",
+        "requireSex": "ccccccc",
+        "requireAddress": "ccccccc",
+        "requireInfo": "ccccccc",
+        "requirePrice": "488",
+        "createTime": "ccccccc",
+        "teacherId": 2
+      },
+      {
+        "requireId": 2,
+        "studentId": 2,
+        "requireCourse": "ccccccc",
+        "requireSex": "ccccccc",
+        "requireAddress": "ccccccc",
+        "requireInfo": "ccccccc",
+        "requirePrice": "588",
+        "createTime": "ccccccc",
+        "teacherId": 2
+      },
+      {
+        "requireId": 2,
+        "studentId": 2,
+        "requireCourse": "ccccccc",
+        "requireSex": "ccccccc",
+        "requireAddress": "ccccccc",
+        "requireInfo": "ccccccc",
+        "requirePrice": "688",
+        "createTime": "ccccccc",
+        "teacherId": 2
+      },
+      {
+        "requireId": 2,
+        "studentId": 2,
+        "requireCourse": "ccccccc",
+        "requireSex": "ccccccc",
+        "requireAddress": "ccccccc",
+        "requireInfo": "ccccccc",
+        "requirePrice": "788",
+        "createTime": "ccccccc",
+        "teacherId": 2
+      },
+      {
+        "requireId": 2,
+        "studentId": 2,
+        "requireCourse": "ccccccc",
+        "requireSex": "ccccccc",
+        "requireAddress": "ccccccc",
+        "requireInfo": "ccccccc",
+        "requirePrice": "888",
+        "createTime": "ccccccc",
+        "teacherId": 2
+      }
+    ],
+    "login":[
+      {
+        "userId": 0,
+        "userName": "张三",
+        "userPassWord": "123456",
+        "userType": "teacher"
+      },
+      {
+        "userId": 1,
+        "userName": "李四",
+        "userPassWord": "8888",
+        "userType": "student"
+      },
+      {
+        "userId": 2,
+        "userName": "老王",
+        "userPassWord": "123456",
+        "userType": "teacher"
+      }
+    ],
+    "students":[
+      {
+        "studentId": 0,
+        "studentName": "a",
+        "studentSex": "a",
+        "studentAge": "a",
+        "studentPhone": "a",
+        "studentEmail": "a",
+        "studentAddress": "a",
+        "studentInfo": "a",
+        "regeditTime": "a",
+        "userId":0
+      },
+      {
+        "studentId": 1,
+        "studentName": "b",
+        "studentSex": "b",
+        "studentAge": "b",
+        "studentPhone": "b",
+        "studentEmail": "b",
+        "studentAddress": "b",
+        "studentInfo": "b",
+        "regeditTime": "b",
+        "userId":0
+      },
+      {
+        "studentId": 2,
+        "studentName": "c",
+        "studentSex": "c",
+        "studentAge": "c",
+        "studentPhone": "c",
+        "studentEmail": "c",
+        "studentAddress": "c",
+        "studentInfo": "c",
+        "regeditTime": "c",
+        "userId":0
+      }
+    ],
+    "teachers":[
+      {
+        "teacherId": 0,
+        "teacherName": "aaa",
+        "teacherSex": "aaa",
+        "teacherAge": "aaa",
+        "teacherSchool": "aaa",
+        "teacherCourse": "aaa",
+        "teacherPhone": "aaa",
+        "teacherEmail": "aaa",
+        "teacherAddress": "aaa",
+        "price": "aaa",
+        "regeditTime": 0.01,
+        "userId": 0
+      },
+      {
+        "teacherId": 1,
+        "teacherName": "kkkk",
+        "teacherSex": "kkkk",
+        "teacherAge": "kkkk",
+        "teacherSchool": "kkkk",
+        "teacherCourse": "kkkk",
+        "teacherPhone": "kkkk",
+        "teacherEmail": "kkkk",
+        "teacherAddress": "kkkk",
+        "price": "kkkk",
+        "regeditTime": 2.222,
+        "userId": 1
+      },
+      {
+        "teacherId": 2,
+        "teacherName": "ggggggg",
+        "teacherSex": "ggggggg",
+        "teacherAge": "ggggggg",
+        "teacherSchool": "ggggggg",
+        "teacherCourse": "ggggggg",
+        "teacherPhone": "ggggggg",
+        "teacherEmail": "ggggggg",
+        "teacherAddress": "ggggggg",
+        "price": "ggggggg",
+        "regeditTime": 4444,
+        "userId": 2
+      },
+      {
+        "teacherId": 3,
+        "teacherName": "fffffff",
+        "teacherSex": "fffffff",
+        "teacherAge": "fffffff",
+        "teacherSchool": "fffffff",
+        "teacherCourse": "fffffff",
+        "teacherPhone": "fffffff",
+        "teacherEmail": "fffffff",
+        "teacherAddress": "fffffff",
+        "price": "fffffff",
+        "regeditTime": 2.34,
+        "userId": 5
+      }
+      ,
+      {
+        "teacherId": 3,
+        "teacherName": "fffffff",
+        "teacherSex": "fffffff",
+        "teacherAge": "fffffff",
+        "teacherSchool": "fffffff",
+        "teacherCourse": "fffffff",
+        "teacherPhone": "fffffff",
+        "teacherEmail": "fffffff",
+        "teacherAddress": "fffffff",
+        "price": "fffffff",
+        "regeditTime": 2.34,
+        "userId": 5
+      }
+      ,
+      {
+        "teacherId": 3,
+        "teacherName": "fffffff",
+        "teacherSex": "fffffff",
+        "teacherAge": "fffffff",
+        "teacherSchool": "fffffff",
+        "teacherCourse": "fffffff",
+        "teacherPhone": "fffffff",
+        "teacherEmail": "fffffff",
+        "teacherAddress": "fffffff",
+        "price": "fffffff",
+        "regeditTime": 2.34,
+        "userId": 5
+      }
+      ,
+      {
+        "teacherId": 3,
+        "teacherName": "fffffff",
+        "teacherSex": "fffffff",
+        "teacherAge": "fffffff",
+        "teacherSchool": "fffffff",
+        "teacherCourse": "fffffff",
+        "teacherPhone": "fffffff",
+        "teacherEmail": "fffffff",
+        "teacherAddress": "fffffff",
+        "price": "fffffff",
+        "regeditTime": 2.34,
+        "userId": 5
+      }
+      ,
+      {
+        "teacherId": 3,
+        "teacherName": "fffffff",
+        "teacherSex": "fffffff",
+        "teacherAge": "fffffff",
+        "teacherSchool": "fffffff",
+        "teacherCourse": "fffffff",
+        "teacherPhone": "fffffff",
+        "teacherEmail": "fffffff",
+        "teacherAddress": "fffffff",
+        "price": "fffffff",
+        "regeditTime": 2.34,
+        "userId": 5
+      }
+    ]
+
+  }
+}
